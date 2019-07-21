@@ -18,9 +18,9 @@ Clone the repo.
 
 Run the main file in a browser:
 
-	```
-	src/bitsler.js
-	```
+```
+src/bitsler.js
+```
 
 ## Deployment
 
